@@ -1,2 +1,3 @@
 # Programming-Dictionary
-Contains word related to programming
+
+* code snippet= presenting one part of the code
